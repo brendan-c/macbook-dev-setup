@@ -119,14 +119,12 @@
   	`sdk install gradle`
 
 #### Miscellaneous:
+```
+brew cask install java
+```
 
-```brew install 
-brew install \
-java \
-gradle \
-mysql \
-mongodb \
-elasticsearch
+```
+brew install gradle mysql mongodb elasticsearch
 ```
 
 
@@ -152,22 +150,7 @@ atom
 ## Install Generic Software 
 
 ```
-brew cask install \    
-gimp \  
-viber \
-slack \
-discord \
-google-chrome \
-firefox \
-firefox-developer-edition \
-brave \
-microsoft-office \
-spotify \
-vlc \
-typora \
-p7zip \
-audacity \
-sketch
+brew cask install gimp slack discord google-chrome firefox firefox-developer-edition brave microsoft-office spotify vlc typora p7zip sketch
 ```
 
 
