@@ -132,7 +132,7 @@ brew install gradle mysql mongodb elasticsearch
 #### Dev Tools:
 
 ```
-brew cask install mysqlworkbench docker gitkraken postman android-studio jetbrains-toolbox sublime-text visual-studio-code atom
+brew cask install mysqlworkbench docker gitkraken postman android-studio jetbrains-toolbox visual-studio-code
 ```
 
 
