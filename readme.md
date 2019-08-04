@@ -140,7 +140,7 @@ brew cask install mysqlworkbench docker gitkraken postman android-studio jetbrai
 ## Install Generic Software 
 
 ```
-brew cask install gimp slack discord google-chrome firefox firefox-developer-edition brave microsoft-office spotify vlc typora p7zip sketch
+brew cask install gimp slack discord google-chrome firefox-developer-edition brave-browser spotify vlc typora sketch
 ```
 
 
